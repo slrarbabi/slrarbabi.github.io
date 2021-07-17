@@ -8715,7 +8715,10 @@ h1, h2, h3, h4, h5,
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
-    border-radius: 50%; }
+    border-radius: 50%; 
+  }
+
+
     .resume-wrap .icon span {
       color: #fff;
       font-size: 28px; }
